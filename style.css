@@ -52,7 +52,7 @@ main {
 
     width: min(42.8rem, 90%); /* Adapta para diferentes telas */
 
-    margin-top: -12rem; /* Sobe um pouco a caixa que foi centralizada no body */
+    margin-top: -12rem;
     text-align: center;
 }
 
