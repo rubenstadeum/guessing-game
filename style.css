@@ -50,7 +50,7 @@ main {
     border-radius: .6rem;
     padding: 4.8rem 6.4rem 6.4rem;
 
-    width: min(42.8rem, 90%); /* Adapta para diferentes telas */
+    width: min(42.8rem, 90%);
 
     margin-top: -12rem;
     text-align: center;
